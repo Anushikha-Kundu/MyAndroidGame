@@ -247,7 +247,8 @@ public class GameView extends SurfaceView implements Runnable {
     private void waitBeforeExiting() {
         try {
             Thread.sleep(3000);
-            activity.finish();
+            activity.finish();// new
+
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
