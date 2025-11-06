@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bird Shooter</string>
+
+    <!-- Text for the new layout -->
+    <string name="app_title">Bird Shooter</string>
+    <string name="play">Play</string>
+    <string name="high_score">High Score: </string>
+
+    <!-- Content Descriptions for Accessibility -->
+    <string name="app_background">Application background image</string>
+    <string name="toggle_volume">Toggle volume</string>
+</resources>

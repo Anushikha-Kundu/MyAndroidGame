@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.BirdShooter" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="AppTheme" parent="Base.Theme.BirdShooter" />
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+</resources>
